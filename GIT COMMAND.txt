@@ -31,5 +31,16 @@ git push : if all things are setted no need to do it.
 
 Git Pull Command
 --------------------
+git pull
 
+Branhces
+----------
+Master and Main Branch are considered as the same
+
+1.git branch
+2.git branch -r (to display the remote branch)
+3.git branch -a (to display all the branch)
+4.git branch  theo ( code to create branch name called theo)
+5.git checkout Theo ( to Switch into Branch Theo)
+6.git checkout -  (to Switch into previous branch)
 
