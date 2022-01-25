@@ -1,1 +1,2 @@
+package kigali
 func main(){}
