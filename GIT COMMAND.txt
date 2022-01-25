@@ -48,3 +48,10 @@ Master and Main Branch are considered as the same
 
 The pull request is proccessed on gitbuh website to prepare code to be merged
 
+7. git push -u origin Theo (pushing new branch to the master)
+8.  git branch -d chechout ( This is how you delete a certain branch )
+
+The pull request is proccessed on gitbuh website to prepare code to be merged
+
+
+
