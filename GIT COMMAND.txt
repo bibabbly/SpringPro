@@ -43,4 +43,8 @@ Master and Main Branch are considered as the same
 4.git branch  theo ( code to create branch name called theo)
 5.git checkout Theo ( to Switch into Branch Theo)
 6.git checkout -  (to Switch into previous branch)
+7. git push -u origin Theo (pushing new branch to the master)
+8.  git branch -d chechout ( This is how you delete a certain branch )
+
+The pull request is proccessed on gitbuh website to prepare code to be merged
 
