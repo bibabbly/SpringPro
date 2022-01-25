@@ -50,3 +50,7 @@ The pull request is proccessed on gitbuh website to prepare code to be merged
 
 nb: deleting branch on server(Github) does not mean it is also deleted on local machine I have to delete it again
 
+git log --oneline : it gives the simple summary of what you have done
+
+9. git branch TheoBi == git checkout -b TheoBi (Icyiza cya command ya 2 ihita iyijyana muri Main..
+
